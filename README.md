@@ -6,6 +6,8 @@ This repository contains the code for the paper **EMOdiffhead: Continuously Emot
 
 **EMOdiffhead** is a research project aimed at achieving continuous emotional control in talking head generation through diffusion models. This approach enables the creation of natural, fluent, and emotionally rich talking avatars, widely applicable in virtual characters, film production, and human-computer interaction.
 
+[[Project]](https://jianzhang-chick.github.io/emodiffhead1/) [[Paper]](https://arxiv.org/pdf/2409.07255)
+
 ## Citation
 ```
 @article{zhang2024emodiffhead,
