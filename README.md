@@ -1,12 +1,7 @@
-# EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion
+# EMOdiffhead: 连续情感控制的口型生成代码
 
-这是关于论文 **EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion** 的代码。
+这是关于论文 **EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion** 的代码仓库。
 
-引用
-如果你在研究中使用了本代码，请引用我们的论文：
-@article{emodiffhead,
-  title={EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion},
-  author={作者名},
-  journal={会议/期刊名称},
-  year={2024}
-}
+## 项目简介
+
+**EMOdiffhead** 是一项研究工作，旨在通过扩散模型实现口型生成中的连续情感控制。该方法能够生成自然流畅且情感丰富的说话头像，广泛应用于虚拟形象、影视制作和人机交互等领域。
